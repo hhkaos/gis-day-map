@@ -1,6 +1,6 @@
 # gis-day-map
 
-A simple map built with [esri-leaflet](https://github.com/Esri/esri-leaflet) to find [GIS Day](http://gisday.com/gis-day-events-map.html) events all around the world. Share it with your friends or just use the code to build your own fun and interactive mapping apps. The entire app is only about 150 lines of JavaScirpt code!
+A simple map built with [esri-leaflet](https://github.com/Esri/esri-leaflet) to find [GIS Day](http://www.gisday.com/gis-day-map.html) events all around the world. Share it with your friends or just use the code to build your own fun and interactive mapping apps. The entire app is only about 150 lines of JavaScirpt code!
 
 [View it live](http://esri.github.com/gis-day-map/index.html)
 
